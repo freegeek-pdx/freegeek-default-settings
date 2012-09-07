@@ -1,5 +1,5 @@
 Source: freegeek-default-settings
-Section: x11
+Section: ubuntu/x11
 Priority: optional
 Maintainer: Freegeek Coders <coders@freegeek.org>
 Uploaders: Ryan Niebur <ryan@debian.org>
