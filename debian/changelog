@@ -1,4 +1,4 @@
-freegeek-default-settings (12.04.12) precise; urgency=low
+freegeek-default-settings (12.04.12) freegeek-test; urgency=low
 
   * Add dependency on human-icon-theme
   * Rename packages to freegeek-* and update maintainer
