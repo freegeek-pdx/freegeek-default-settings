@@ -5,8 +5,9 @@ freegeek-default-settings (12.04.12) UNRELEASED; urgency=low
     - update descriptions as well
   * Remove the /et/skel/{.Xdefaults,.xscreensaver}
     - and add depends on xubuntu-default-settings
+  * Fix the maintscript handle of po files for xdg-freegeek
 
- -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:39:59 -0700
+ -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:42:43 -0700
 
 xubuntu-default-settings (12.04.11) precise; urgency=low
 
