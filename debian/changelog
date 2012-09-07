@@ -1,4 +1,4 @@
-freegeek-default-settings (12.04.12) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.12) precise; urgency=low
 
   * Add dependency on human-icon-theme
   * Rename packages to freegeek-* and update maintainer
@@ -8,7 +8,7 @@ freegeek-default-settings (12.04.12) UNRELEASED; urgency=low
   * Fix the maintscript handle of po files for xdg-freegeek
     - also fix Makefile
 
- -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:42:43 -0700
+ -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:43:32 -0700
 
 xubuntu-default-settings (12.04.11) precise; urgency=low
 
