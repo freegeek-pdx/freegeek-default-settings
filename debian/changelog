@@ -3,8 +3,10 @@ freegeek-default-settings (12.04.12) UNRELEASED; urgency=low
   * Add dependency on human-icon-theme
   * Rename packages to freegeek-* and update maintainer
     - update descriptions as well
+  * Remove the /et/skel/{.Xdefaults,.xscreensaver}
+    - and add depends on xubuntu-default-settings
 
- -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:37:14 -0700
+ -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 14:39:59 -0700
 
 xubuntu-default-settings (12.04.11) precise; urgency=low
 
