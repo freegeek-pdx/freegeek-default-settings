@@ -1,3 +1,9 @@
+freegeek-default-settings (12.04.13) freegeek-test; urgency=low
+
+  * Reupload as a FG package
+
+ -- Ryan Niebur <ryan@debian.org>  Fri, 07 Sep 2012 15:02:29 -0700
+
 freegeek-default-settings (12.04.12) freegeek-test; urgency=low
 
   * Add dependency on human-icon-theme
