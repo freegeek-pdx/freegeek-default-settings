@@ -5,14 +5,14 @@
     <property name="panel-0" type="empty">
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="length" type="uint" value="100"/>
-      <property name="position-locked" type="bool" value="false"/>
+      <property name="position-locked" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="29"/>
-        <value type="int" value="46"/>
-        <value type="int" value="45"/>
-        <value type="int" value="47"/>
         <value type="int" value="48"/>
+        <value type="int" value="46"/>
+        <value type="int" value="47"/>
+        <value type="int" value="45"/>
         <value type="int" value="36"/>
         <value type="int" value="5"/>
         <value type="int" value="4"/>
@@ -33,6 +33,7 @@
       <property name="position" type="string" value="p=8;x=512;y=745"/>
       <property name="size" type="uint" value="24"/>
       <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="43"/>
         <value type="int" value="39"/>
@@ -52,11 +53,13 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="22"/>
       <property name="names-visible" type="array">
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="mate-power-manager"/>
-        <value type="string" value="bluetooth"/>
         <value type="string" value="bluetooth applet"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="blueman-applet"/>
+        <value type="string" value="bluetooth"/>
+        <value type="string" value="update-notifier"/>
+        <value type="string" value="mate-power-manager"/>
       </property>
     </property>
     <property name="plugin-5" type="string" value="indicator"/>
