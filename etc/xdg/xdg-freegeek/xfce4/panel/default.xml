@@ -47,7 +47,7 @@
       <property name="show-tooltips" type="bool" value="true"/>
       <property name="button-icon" type="string" value="xubuntu-logo-menu"/>
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-title" type="string" value="Application"/>
+      <property name="button-title" type="string" value="Applications"/>
     </property>
     <property name="plugin-4" type="string" value="systray">
       <property name="show-frame" type="bool" value="false"/>
