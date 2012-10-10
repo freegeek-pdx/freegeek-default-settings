@@ -1,10 +1,10 @@
-freegeek-default-settings (12.04.16) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.16) freegeek-test; urgency=low
 
   * Use lightdm-set-defaults to set the default session and greeter for 
     lightdm. 
   * Recommend freegeek-wallpapers. 
 
- -- Vagrant Cascadian <vagrant@debian.org>  Wed, 10 Oct 2012 16:22:09 -0700
+ -- Vagrant Cascadian <vagrant@debian.org>  Wed, 10 Oct 2012 16:58:48 -0700
 
 freegeek-default-settings (12.04.15) freegeek-test; urgency=low
 
