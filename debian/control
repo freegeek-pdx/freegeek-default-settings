@@ -2,7 +2,7 @@ Source: freegeek-default-settings
 Section: ubuntu/x11
 Priority: optional
 Maintainer: Freegeek Coders <coders@freegeek.org>
-Uploaders: Ryan Niebur <ryan@debian.org>
+Uploaders: Ryan Niebur <ryan@debian.org>, Vagrant Cascadian <vagrant@debian.org>
 Build-Depends: debhelper (>= 8.1.3~), intltool
 Standards-Version: 3.9.2
 Homepage: https://launchpad.net/xubuntu-default-settings
