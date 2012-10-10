@@ -1,3 +1,10 @@
+freegeek-default-settings (12.04.16) UNRELEASED; urgency=low
+
+  * Use lightdm-set-defaults to set the default session and greeter for 
+    lightdm. 
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Wed, 10 Oct 2012 16:22:09 -0700
+
 freegeek-default-settings (12.04.15) freegeek-test; urgency=low
 
   * Reduced set of changes with stock xubuntu.
