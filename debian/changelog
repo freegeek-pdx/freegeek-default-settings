@@ -1,3 +1,12 @@
+freegeek-default-settings (12.04.17) freegeek-test; urgency=low
+
+  * Force lightdm session and greeter to use freegeek settings.
+  * Actually set lightdm session to "freegeek".
+  * Remove lightdm greeter configuration on package removal.
+  * Bump priority on lightdm alternative to 90.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Thu, 11 Oct 2012 11:47:23 -0700
+
 freegeek-default-settings (12.04.16) freegeek-test; urgency=low
 
   * Use lightdm-set-defaults to set the default session and greeter for 
