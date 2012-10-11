@@ -5,8 +5,10 @@ set -e
 case "$1" in
   configure|upgrade)
     if [ -x /usr/lib/lightdm/lightdm-set-defaults ] ; then
-      /usr/lib/lightdm/lightdm-set-defaults --keep-old --session=freegeek || true
-      /usr/lib/lightdm/lightdm-set-defaults --keep-old --greeter=lightdm-gtk-greeter || true
+      # FIXME: only force session on initial install, use --keep-old on 
+      # upgrades?
+      /usr/lib/lightdm/lightdm-set-defaults --session=freegeek || true
+      /usr/lib/lightdm/lightdm-set-defaults --greeter=lightdm-gtk-greeter || true
     fi
     ;;
 esac
