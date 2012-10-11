@@ -4,7 +4,7 @@ set -e
 
 if [ "$1" = "remove" ] ; then
   update-alternatives --remove lightdm-gtk-greeter-config-derivative \
-    /etc/xdg/xdg-xubuntu/lightdm/lightdm-gtk-greeter.conf
+    /etc/xdg/xdg-freegeek/lightdm/lightdm-gtk-greeter.conf
 fi
 
 #DEBHELPER#

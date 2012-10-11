@@ -4,8 +4,6 @@ set -e
 
 case "$1" in
   remove|purge)
-    update-alternatives --remove lightdm-gtk-greeter-config-derivative \
-      /etc/xdg/xdg-freegeek/lightdm/lightdm-gtk-greeter.conf
     if [ ! -f /etc/lightdm/lightdm-gtk-greeter.conf ]; then
       /usr/lib/lightdm/lightdm-set-defaults --remove --session=lightdm-gtk-greeter || true
     fi
