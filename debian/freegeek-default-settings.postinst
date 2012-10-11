@@ -14,7 +14,7 @@ esac
 if [ "$1" = "configure" ] ; then
   update-alternatives --install /etc/lightdm/lightdm-gtk-greeter.conf \
     lightdm-gtk-greeter-config-derivative \
-    /etc/xdg/xdg-freegeek/lightdm/lightdm-gtk-greeter.conf 30
+    /etc/xdg/xdg-freegeek/lightdm/lightdm-gtk-greeter.conf 90
 fi
 
 case "$1" in
