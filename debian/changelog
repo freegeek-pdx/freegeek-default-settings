@@ -1,3 +1,10 @@
+freegeek-default-settings (12.04.18) UNRELEASED; urgency=low
+
+  * Recommend a number of packages to avoid getting incomplete language 
+    support warnings. RT#32065.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Thu, 29 Nov 2012 17:23:57 -0800
+
 freegeek-default-settings (12.04.17) freegeek-test; urgency=low
 
   * Force lightdm session and greeter to use freegeek settings.
