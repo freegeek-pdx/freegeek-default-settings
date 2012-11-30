@@ -2,6 +2,7 @@ freegeek-default-settings (12.04.18) UNRELEASED; urgency=low
 
   * Recommend a number of packages to avoid getting incomplete language 
     support warnings. RT#32065.
+  * Recommend libreoffice. 
 
  -- Vagrant Cascadian <vagrant@debian.org>  Thu, 29 Nov 2012 17:23:57 -0800
 
