@@ -1,3 +1,9 @@
+freegeek-default-settings (12.04.19) freegeek-test; urgency=low
+
+  * Recommend more packages to avoid incomplete language warnings. RT#32677.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Thu, 20 Dec 2012 10:59:57 -0800
+
 freegeek-default-settings (12.04.18) freegeek-test; urgency=low
 
   * Recommend a number of packages to avoid getting incomplete language 

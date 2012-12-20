@@ -23,7 +23,11 @@ Recommends: xfce4-utils, freegeek-wallpapers, libreoffice,
  poppler-data,
  gimp-help-en,
  thunderbird-locale-en, thunderbird-locale-en-us, 
- myspell-en-za, myspell-en-gb, myspell-en-au, myspell-en-us
+ myspell-en-za, myspell-en-gb, myspell-en-au, myspell-en-us,
+# More stuff to avoid "Incomplete Language Support warnings" RT#32677
+ openoffice.org-hyphenation,
+ libreoffice-help-en-us,
+ hyphen-en-us, mythes-en-us, hunspell-en-us
 Provides: lightdm-gtk-greeter-config
 Description: default settings for the Freegeek desktop
  This package contains the default settings used by Freegeek.
