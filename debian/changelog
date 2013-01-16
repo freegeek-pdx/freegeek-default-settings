@@ -1,10 +1,10 @@
-freegeek-default-settings (12.04.20) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.20) freegeek-test; urgency=low
 
   * Prefer hunspell-en-us over myspell-en-us.
   * Remove recommends on wbritish, myspell-en-za, myspell-en-gb, and
     myspell-en-au.
 
- -- Vagrant Cascadian <vagrant@debian.org>  Wed, 26 Dec 2012 17:14:35 -0800
+ -- Vagrant Cascadian <vagrant@debian.org>  Tue, 15 Jan 2013 15:13:40 -0800
 
 freegeek-default-settings (12.04.19) freegeek-test; urgency=low
 
