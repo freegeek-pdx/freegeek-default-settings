@@ -1,3 +1,10 @@
+freegeek-default-settings (12.04.22) freegek-test; urgency=low
+
+  * Add freegeek-preferred-packages package to remove installation of 
+    abiword, gnumeric, whoopsie and apport. RT#33830, RT#33458.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Tue, 19 Feb 2013 14:34:00 -0800
+
 freegeek-default-settings (12.04.21) freegeek-test; urgency=low
 
   * Recommend more packages to avoid incomplete language warnings. RT#32677.

@@ -32,6 +32,19 @@ Provides: lightdm-gtk-greeter-config
 Description: default settings for the Freegeek desktop
  This package contains the default settings used by Freegeek.
 
+Package: freegeek-preferred-packages
+Architecture: all
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${misc:Depends}
+Recommends: libreoffice
+Breaks: abiword, gnumeric, apport, whoopsie
+Description: default application preferences for the Freegeek desktop
+ This package uninstalls some applications that are not part of the Freegeek
+ desktop, but may be included with Xubuntu or other defaults.
+ .
+ If you really want those packages installed, it should be safe to remove this
+ package.
+
 Package: freegeek-live-settings
 Architecture: all
 Depends: ${misc:Depends}, casper, freegeek-default-settings
