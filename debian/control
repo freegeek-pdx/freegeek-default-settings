@@ -16,6 +16,7 @@ Depends: ${misc:Depends}, xubuntu-artwork (>= 12.04.2~), ttf-droid,
  x11-common (>= 1:7.6+7ubuntu2), lightdm-gtk-greeter (>= 1.0.0-0ubuntu2),
  xubuntu-default-settings
 Recommends: xfce4-utils, freegeek-wallpapers, libreoffice,
+ freegeek-manual-12.04,
 # Stuff to avoid "Incomplete Language Support warnings" RT#32065
  wamerican, wbritish,
  firefox-locale-en,
