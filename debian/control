@@ -5,9 +5,9 @@ Maintainer: Freegeek Coders <coders@freegeek.org>
 Uploaders: Ryan Niebur <ryan@debian.org>, Vagrant Cascadian <vagrant@debian.org>
 Build-Depends: debhelper (>= 8.1.3~), intltool
 Standards-Version: 3.9.2
-Homepage: https://launchpad.net/xubuntu-default-settings
-Vcs-Bzr: lp:xubuntu-default-settings
-Vcs-Browser: http://bazaar.launchpad.net/~xubuntu-dev/xubuntu-default-settings/trunk/files
+Homepage: http://freegeek.org
+Vcs-Git: http://git.freegeek.org/git/freegeek-default-settings
+Vcs-Browser: http://git.freegeek.org/?p=freegeek-default-settings;a=summary
 
 Package: freegeek-default-settings
 Architecture: all

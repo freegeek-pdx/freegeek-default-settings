@@ -1,6 +1,7 @@
 freegeek-default-settings (12.04.24) UNRELEASED; urgency=low
 
   * Recommend freegeek-manual-12.04. RT#32297.
+  * Update Homepage, Vcs-Git and Vcs-Browser URLs in debian/control. 
 
  -- Vagrant Cascadian <vagrant@debian.org>  Wed, 20 Feb 2013 17:23:11 -0800
 
