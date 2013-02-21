@@ -38,7 +38,7 @@ Architecture: all
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}
 Recommends: libreoffice
-Breaks: abiword, apport, whoopsie
+Breaks: abiword, abiword-common, apport, whoopsie
 Description: default application preferences for the Freegeek desktop
  This package uninstalls some applications that are not part of the Freegeek
  desktop, but may be included with Xubuntu or other defaults.
