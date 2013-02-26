@@ -1,3 +1,11 @@
+freegeek-default-settings (12.04.26) UNRELEASED; urgency=low
+
+  * freegeek-default-settings: Recommend b43-fwcutter and 
+    firmware-b43-installer to support additional Broadcom chipsets.
+    RT#33939.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Tue, 26 Feb 2013 15:02:50 -0800
+
 freegeek-default-settings (12.04.25) freegeek-test; urgency=low
 
   * freegeek-preferred-packages: Add Breaks on abiword-common. 
