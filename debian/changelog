@@ -1,4 +1,4 @@
-freegeek-default-settings (12.04.26) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.26) freegeek-test; urgency=low
 
   [ Vagrant Cascadian ]
   * freegeek-default-settings: Recommend b43-fwcutter and 
@@ -9,7 +9,7 @@ freegeek-default-settings (12.04.26) UNRELEASED; urgency=low
   * Set the default DVD player for the Free Geek session to vlc (Closes:
     #34215)
 
- -- Ryan Niebur <ryan@debian.org>  Sat, 16 Mar 2013 13:16:32 -0700
+ -- Ryan Niebur <ryan@debian.org>  Sat, 16 Mar 2013 13:19:55 -0700
 
 freegeek-default-settings (12.04.25) freegeek-test; urgency=low
 
