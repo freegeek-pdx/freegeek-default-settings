@@ -12,7 +12,7 @@
   </property>
   <property name="autoplay-video-cds" type="empty">
     <property name="enabled" type="bool" value="true"/>
-    <property name="command" type="string" value="parole --device=%d"/>
+    <property name="command" type="string" value="vlc dvd://%d"/>
   </property>
   <property name="autorun" type="empty">
     <property name="enabled" type="bool" value="false"/>

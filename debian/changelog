@@ -1,10 +1,15 @@
 freegeek-default-settings (12.04.26) UNRELEASED; urgency=low
 
+  [ Vagrant Cascadian ]
   * freegeek-default-settings: Recommend b43-fwcutter and 
     firmware-b43-installer to support additional Broadcom chipsets.
     RT#33939.
 
- -- Vagrant Cascadian <vagrant@debian.org>  Tue, 26 Feb 2013 15:02:50 -0800
+  [ Ryan Niebur ]
+  * Set the default DVD player for the Free Geek session to vlc (Closes:
+    #34215)
+
+ -- Ryan Niebur <ryan@debian.org>  Sat, 16 Mar 2013 13:16:32 -0700
 
 freegeek-default-settings (12.04.25) freegeek-test; urgency=low
 
