@@ -1,3 +1,10 @@
+freegeek-default-settings (12.04.27) UNRELEASED; urgency=low
+
+  * Apply Ben's patch to fix our XFCE settings to disable AutoSave
+    sessions (Closes: #34993)
+
+ -- Ryan Niebur <ryan@debian.org>  Fri, 10 May 2013 15:07:57 -0700
+
 freegeek-default-settings (12.04.26) freegeek-test; urgency=low
 
   [ Vagrant Cascadian ]
