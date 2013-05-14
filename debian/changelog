@@ -1,10 +1,10 @@
-freegeek-default-settings (12.04.28) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.28) freegeek-test; urgency=low
 
   * Disable compositing by default (Closes: #33706)
   * Disable autohide on bottom panel (Closes: #33705)
     - also remove hard coding of oem in the panel's home directory
 
- -- Ryan Niebur <ryan@debian.org>  Sun, 12 May 2013 08:34:27 -0700
+ -- Ryan Niebur <ryan@debian.org>  Tue, 14 May 2013 11:52:36 -0700
 
 freegeek-default-settings (12.04.27) freegeek-test; urgency=low
 
