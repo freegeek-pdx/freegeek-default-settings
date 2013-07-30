@@ -40,5 +40,14 @@
     <patterns>*</patterns>
     <directories/>
   </action>
+  
+  <action>
+    <icon>checkbox</icon>
+    <name>Mark as executable</name>
+    <command>chmod +x %f</command>
+    <description>Make a file executable</description>
+    <patterns>*</patterns>
+    <other-files/><text-files/>
+  </action>
 
 </actions>
