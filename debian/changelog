@@ -1,9 +1,10 @@
-freegeek-default-settings (12.04.30) UNRELEASED; urgency=low
+freegeek-default-settings (12.04.30) precise; urgency=low
 
   * Use parole for mpegurl mime types. Thanks to Paul Munday for the patch.
     (Closes: #37343)
-  
- -- Vagrant Cascadian <vagrant@freegeek.org>  Thu, 05 Sep 2013 13:40:44 -0700
+  * debian/control: Update Section, Uploaders, and Vcs-* fields.
+
+ -- Vagrant Cascadian <vagrant@freegeek.org>  Tue, 17 Dec 2013 14:04:12 -0800
 
 freegeek-default-settings (12.04.29) freegeek-test; urgency=low
 
